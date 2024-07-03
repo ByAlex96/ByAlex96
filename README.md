@@ -19,8 +19,8 @@
 
 - A passionate FullStack-Web developer
 - Graduate in web applications development
-- Personal website [link](https://miskyyurax.free.nf)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAGJ1lt95g4/7tLf_ocuCu0_lSjNCqlc8Q/view?utm_content=DAGJ1lt95g4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- Personal website <a href="https://miskyyurax.free.nf" target="_blank">link</a>
+- I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.canva.com/design/DAGJ1lt95g4/7tLf_ocuCu0_lSjNCqlc8Q/view?utm_content=DAGJ1lt95g4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">my resume</a>
 
 <br><br>
 
