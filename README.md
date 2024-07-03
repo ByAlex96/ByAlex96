@@ -17,10 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate FullStack-Web developer
+- Graduate in web applications development
+- Personal website [link](https://miskyyurax.free.nf)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAGJ1lt95g4/7tLf_ocuCu0_lSjNCqlc8Q/view?utm_content=DAGJ1lt95g4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <br><br>
 
