@@ -1,11 +1,11 @@
 
-<h1 align="center"><b>Hi , I'm Alexander Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Yo soy Alexander Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Alexander+K+Pérez+Llanos..&hearts;++;FullStack-Web+Developer,;Web+Application+Development+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-🎓 Web Application Development Technician
+🎓 Tecnico en Desarrollo de Aplicaciones Web
 <br>
 📫 Contact: **alexander.k.perez96@gmail.com**
 
@@ -13,27 +13,27 @@
 
 <br>
 
-- A passionate FullStack-Web developer
-- Personal website <a href="https://miskyyurax.free.nf" target="_blank">link</a>
-- I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.canva.com/design/DAGJ1lt95g4/7tLf_ocuCu0_lSjNCqlc8Q/view?utm_content=DAGJ1lt95g4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">my resume</a>
+- Apasionado desarrollador Web FullStack
+- Sitio web personal <a href="https://miskyyurax.free.nf" target="_blank">link</a>
+- Actualmente estoy abierto para una pasantía o una nueva oportunidad de trabajo, esto es <a href="https://www.canva.com/design/DAGJ1lt95g4/7tLf_ocuCu0_lSjNCqlc8Q/view?utm_content=DAGJ1lt95g4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">mi CV </a>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 <br>
 
 <p align="center">
 
-- **Languages**:
+- **Lneguajes**:
     
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <br>   
     
-- **Front-End Development**:
+- **Desarrollo Front-End**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,13 +43,13 @@
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br>
 
-- **Database**:
+- **Base de Datos**:
     
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
   <br>
   
-- **Cloud Hosting**:
+- **Alojamiento en la Nube**:
 
 
     ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -57,7 +57,7 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **Softwares y Herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -81,7 +81,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b>
 <br>
 
 <div align="center">
@@ -102,7 +102,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Conectémonos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -134,7 +134,7 @@
 
 <div align='center'>
 
-## <b>God's peace, mercy and blessings be upon you...✨✨</b>
+## <b>La paz, la misericordia y las bendiciones de Dios sean con vosotros...✨✨</b>
 
 </div>
 <br>
