@@ -61,8 +61,9 @@ Soy un profesional IT e Ingeniero de Software con experiencia en desarrollo web,
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByAlex96&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlex96&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ByAlex96&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlex96&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---
@@ -74,8 +75,3 @@ Soy un profesional IT e Ingeniero de Software con experiencia en desarrollo web,
 - [Email](mailto:alexander.k.perez96@gmail.com)
 
 Gracias por visitar mi perfil.
-<br>
-
-Credit: [Alexander Pérez](https://github.com/ByAlex96)
-
-Last Edited on: 03/07/2024
