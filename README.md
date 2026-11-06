@@ -94,11 +94,30 @@ Ingeniero de Software y profesional IT. Hoy trabajo en el **mantenimiento evolut
 
 ---
 
-## Actividad en GitHub
+## Cómo trabajo
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ByAlex96&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Dato antes que hipótesis</h3>
+      Antes de tocar código compruebo el dato real en producción (SQL, logs, APM) y llego a la causa raíz.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Cambios con pruebas</h3>
+      Cada corrección va con su prueba automática y pasa por revisión de <i>pull request</i>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automatizo lo repetitivo</h3>
+      Si una tarea se repite, la convierto en un script o en una herramienta para el equipo.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Personas en el control</h3>
+      Mis automatizaciones consultan solas, pero lo que modifica algo espera siempre una aprobación.
+    </td>
+  </tr>
+</table>
 
 ---
 
