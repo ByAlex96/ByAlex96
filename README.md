@@ -94,12 +94,10 @@ Ingeniero de Software y profesional IT. Hoy trabajo en el **mantenimiento evolut
 
 ---
 
-## Estadísticas de GitHub
+## Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByAlex96&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlex96&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=ByAlex96&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
 </div>
 
 ---
